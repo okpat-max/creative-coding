@@ -1,0 +1,5 @@
+py5
+ipykernel
+notebook
+matplotlib
+numpy
